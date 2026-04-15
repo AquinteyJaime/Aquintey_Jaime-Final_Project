@@ -17,7 +17,7 @@ const AboutMe = () => {
         <h2 className="section-title">About Me</h2>
         
         <p className="mt-4 text-gray-700 text-lg leading-relaxed">
-          I am currently studying Information Technology and developing my skills in web development and programming.
+          I am currently studying Information Technology and developing my skills in Network Security and programming.
         </p>
       </div>
 
